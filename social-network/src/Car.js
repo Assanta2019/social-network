@@ -2,10 +2,10 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-function App() {
+function Car() {
   return (
-    <div className="App">
-      <h1>React</h1>
+    <div className="Car">
+      <h1>Car</h1>
       <ul>
         <li></li>
       </ul>
@@ -13,4 +13,4 @@ function App() {
   );
 }
 
-export default App;
+export default Car;
